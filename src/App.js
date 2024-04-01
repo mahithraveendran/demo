@@ -117,7 +117,7 @@ function App() {
                     </div>
                 </form>
                 <div className="text">
-                    Already have an account? <span>Login</span>
+                    Already Have an Account? <span>Login</span>
                 </div>
             </div>{" "}
         </>
